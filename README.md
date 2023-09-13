@@ -1,0 +1,1 @@
+To run, please use json-server to serve the data and http-server to serve the front-end.
